@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Guichet_dbaModelStoreContainer" CdmEntityContainer="Guichet_dbaEntities">
+    <EntitySetMapping Name="Clients">
+      <EntityTypeMapping TypeName="Guichet_dbaModel.Client">
+        <MappingFragment StoreEntitySet="Clients">
+          <ScalarProperty Name="codeClient" ColumnName="codeClient" />
+          <ScalarProperty Name="NIP" ColumnName="NIP" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="prenom" ColumnName="prenom" />
+          <ScalarProperty Name="telephone" ColumnName="telephone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

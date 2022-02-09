@@ -1,0 +1,27 @@
+﻿<Window x:Class="Simulateur_de_guichet_automatique.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Simulateur_de_guichet_automatique"
+        mc:Ignorable="d"
+       
+         Title="Simulateur de guichet automatique " Height="384" Width="525" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+        
+    <Grid Margin="0,0,0,8" Height="352">
+        <TextBlock x:Name="textBienvenue" HorizontalAlignment="Center" Margin="0,25,0,0" TextWrapping="Wrap" Text="Bienvenue" VerticalAlignment="Top" FontSize="48"
+                   IsEnabled="False" Width="276" TextAlignment="Center" FontWeight="Bold" Grid.ColumnSpan="2" Grid.Column="1" Height="64"/>
+        <TextBlock x:Name="textEnterprise" HorizontalAlignment="Center" Margin="0,90,0,0" TextWrapping="Wrap" Text="Système de guichet automatique" VerticalAlignment="Top"
+                   Width="216" FontSize="18" FontWeight="Bold" TextAlignment="Center" Grid.ColumnSpan="2" Grid.Column="1" Height="48"/>
+
+        <TextBlock x:Name="codeUtilisateur" HorizontalAlignment="Left" Margin="90,175,0,0" TextWrapping="Wrap" Text="Code du Client :" VerticalAlignment="Top" Height="16" Width="132" FontSize="15"/>
+        <TextBlock x:Name="textnip" HorizontalAlignment="Left" Margin="164,215,0,0" TextWrapping="Wrap" Text="Nip :" VerticalAlignment="Top" FontSize="15"/>
+
+        <TextBox x:Name="textBox_codeClient" HorizontalAlignment="Right" Height="23" Margin="0,175,121,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" />
+        <PasswordBox x:Name="passwordBox_nip" HorizontalAlignment="Right" Height="23" Margin="0,215,121,0" VerticalAlignment="Top" Width="150" KeyDown="PasswordBox_nip_KeyDown" />
+
+        <Button x:Name="buttonLogin" Content="Connexion" HorizontalAlignment="Left" Margin="130,0,0,50" VerticalAlignment="Bottom" Width="90" Click="ButtonLogin_Click"/>
+        <Button x:Name="buttonLogoff" Content="Quitter" HorizontalAlignment="Right" Margin="0,0,130,50" VerticalAlignment="Bottom" Width="90" Click="ButtonLogoff_Click"/>
+
+    </Grid>
+</Window>

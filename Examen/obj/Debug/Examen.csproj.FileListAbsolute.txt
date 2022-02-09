@@ -1,0 +1,11 @@
+C:\Users\Wenso\source\repos\Examen\bin\Debug\Examen.exe.config
+C:\Users\Wenso\source\repos\Examen\bin\Debug\Examen.exe
+C:\Users\Wenso\source\repos\Examen\bin\Debug\Examen.pdb
+C:\Users\Wenso\source\repos\Examen\obj\Debug\Examen.csprojAssemblyReference.cache
+C:\Users\Wenso\source\repos\Examen\obj\Debug\Examen.Conversion.resources
+C:\Users\Wenso\source\repos\Examen\obj\Debug\Examen.ConvertDevise.resources
+C:\Users\Wenso\source\repos\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\Wenso\source\repos\Examen\obj\Debug\Examen.csproj.GenerateResource.cache
+C:\Users\Wenso\source\repos\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Wenso\source\repos\Examen\obj\Debug\Examen.exe
+C:\Users\Wenso\source\repos\Examen\obj\Debug\Examen.pdb

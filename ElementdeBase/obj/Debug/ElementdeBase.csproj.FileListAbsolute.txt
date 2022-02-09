@@ -1,0 +1,7 @@
+C:\Users\Wenso\source\repos\ElementdeBase\bin\Debug\ElementdeBase.exe.config
+C:\Users\Wenso\source\repos\ElementdeBase\bin\Debug\ElementdeBase.exe
+C:\Users\Wenso\source\repos\ElementdeBase\bin\Debug\ElementdeBase.pdb
+C:\Users\Wenso\source\repos\ElementdeBase\obj\Debug\ElementdeBase.csprojAssemblyReference.cache
+C:\Users\Wenso\source\repos\ElementdeBase\obj\Debug\ElementdeBase.csproj.CoreCompileInputs.cache
+C:\Users\Wenso\source\repos\ElementdeBase\obj\Debug\ElementdeBase.exe
+C:\Users\Wenso\source\repos\ElementdeBase\obj\Debug\ElementdeBase.pdb

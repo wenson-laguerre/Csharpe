@@ -1,0 +1,7 @@
+C:\Users\Wenso\source\repos\Lab 05\bin\Debug\Lab 05.exe.config
+C:\Users\Wenso\source\repos\Lab 05\bin\Debug\Lab 05.exe
+C:\Users\Wenso\source\repos\Lab 05\bin\Debug\Lab 05.pdb
+C:\Users\Wenso\source\repos\Lab 05\obj\Debug\Lab 05.csprojAssemblyReference.cache
+C:\Users\Wenso\source\repos\Lab 05\obj\Debug\Lab 05.csproj.CoreCompileInputs.cache
+C:\Users\Wenso\source\repos\Lab 05\obj\Debug\Lab 05.exe
+C:\Users\Wenso\source\repos\Lab 05\obj\Debug\Lab 05.pdb

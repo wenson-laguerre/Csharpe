@@ -1,0 +1,10 @@
+C:\Users\Wenso\source\repos\Examen Finale (Hinde)\bin\Debug\Examen Finale (Hinde).exe.config
+C:\Users\Wenso\source\repos\Examen Finale (Hinde)\bin\Debug\Examen Finale (Hinde).exe
+C:\Users\Wenso\source\repos\Examen Finale (Hinde)\bin\Debug\Examen Finale (Hinde).pdb
+C:\Users\Wenso\source\repos\Examen Finale (Hinde)\obj\Debug\Examen Finale (Hinde).csprojAssemblyReference.cache
+C:\Users\Wenso\source\repos\Examen Finale (Hinde)\obj\Debug\Examen_Finale__Hinde_.Form1.resources
+C:\Users\Wenso\source\repos\Examen Finale (Hinde)\obj\Debug\Examen_Finale__Hinde_.Properties.Resources.resources
+C:\Users\Wenso\source\repos\Examen Finale (Hinde)\obj\Debug\Examen Finale (Hinde).csproj.GenerateResource.cache
+C:\Users\Wenso\source\repos\Examen Finale (Hinde)\obj\Debug\Examen Finale (Hinde).csproj.CoreCompileInputs.cache
+C:\Users\Wenso\source\repos\Examen Finale (Hinde)\obj\Debug\Examen Finale (Hinde).exe
+C:\Users\Wenso\source\repos\Examen Finale (Hinde)\obj\Debug\Examen Finale (Hinde).pdb

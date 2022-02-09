@@ -1,0 +1,10 @@
+C:\Users\Wenso\source\repos\ExamenFormatif (Hinde)\obj\Debug\ExamenFormatif (Hinde).csprojAssemblyReference.cache
+C:\Users\Wenso\source\repos\ExamenFormatif (Hinde)\obj\Debug\ExamenFormatif__Hinde_.Form1.resources
+C:\Users\Wenso\source\repos\ExamenFormatif (Hinde)\obj\Debug\ExamenFormatif__Hinde_.Properties.Resources.resources
+C:\Users\Wenso\source\repos\ExamenFormatif (Hinde)\obj\Debug\ExamenFormatif (Hinde).csproj.GenerateResource.cache
+C:\Users\Wenso\source\repos\ExamenFormatif (Hinde)\obj\Debug\ExamenFormatif (Hinde).csproj.CoreCompileInputs.cache
+C:\Users\Wenso\source\repos\ExamenFormatif (Hinde)\bin\Debug\ExamenFormatif (Hinde).exe.config
+C:\Users\Wenso\source\repos\ExamenFormatif (Hinde)\bin\Debug\ExamenFormatif (Hinde).exe
+C:\Users\Wenso\source\repos\ExamenFormatif (Hinde)\bin\Debug\ExamenFormatif (Hinde).pdb
+C:\Users\Wenso\source\repos\ExamenFormatif (Hinde)\obj\Debug\ExamenFormatif (Hinde).exe
+C:\Users\Wenso\source\repos\ExamenFormatif (Hinde)\obj\Debug\ExamenFormatif (Hinde).pdb

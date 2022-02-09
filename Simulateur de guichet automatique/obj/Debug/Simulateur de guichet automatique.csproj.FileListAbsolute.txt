@@ -1,0 +1,22 @@
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\bin\Debug\Simulateur de guichet automatique.exe.config
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\bin\Debug\Simulateur de guichet automatique.exe
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\bin\Debug\Simulateur de guichet automatique.pdb
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\bin\Debug\EntityFramework.dll
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\bin\Debug\EntityFramework.xml
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\obj\Debug\Simulateur de guichet automatique.csprojAssemblyReference.cache
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\obj\Debug\MainWindow.g.cs
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\obj\Debug\App.g.cs
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\obj\Debug\Simulateur de guichet automatique_Content.g.cs
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\obj\Debug\Simulateur de guichet automatique_MarkupCompile.cache
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\obj\Debug\Simulateur de guichet automatique_MarkupCompile.lref
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\obj\Debug\MainWindow.baml
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\obj\Debug\Simulateur de guichet automatique.g.resources
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\obj\Debug\Simulateur_de_guichet_automatique.Properties.Resources.resources
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\obj\Debug\Simulateur de guichet automatique.csproj.GenerateResource.cache
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\obj\Debug\Simulateur de guichet automatique.csproj.CoreCompileInputs.cache
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\obj\Debug\Simulateur de guichet automatique.csproj.CopyComplete
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\obj\Debug\Simulateur de guichet automatique.exe
+C:\Users\Wenso\source\repos\Simulateur de guichet automatique\obj\Debug\Simulateur de guichet automatique.pdb

@@ -1,0 +1,10 @@
+C:\Users\Wenso\source\repos\Prog_evenementielle\bin\Debug\Prog_evenementielle.exe.config
+C:\Users\Wenso\source\repos\Prog_evenementielle\bin\Debug\Prog_evenementielle.exe
+C:\Users\Wenso\source\repos\Prog_evenementielle\bin\Debug\Prog_evenementielle.pdb
+C:\Users\Wenso\source\repos\Prog_evenementielle\obj\Debug\Prog_evenementielle.csprojAssemblyReference.cache
+C:\Users\Wenso\source\repos\Prog_evenementielle\obj\Debug\Prog_evenementielle.Connexion.resources
+C:\Users\Wenso\source\repos\Prog_evenementielle\obj\Debug\Prog_evenementielle.Properties.Resources.resources
+C:\Users\Wenso\source\repos\Prog_evenementielle\obj\Debug\Prog_evenementielle.csproj.GenerateResource.cache
+C:\Users\Wenso\source\repos\Prog_evenementielle\obj\Debug\Prog_evenementielle.csproj.CoreCompileInputs.cache
+C:\Users\Wenso\source\repos\Prog_evenementielle\obj\Debug\Prog_evenementielle.exe
+C:\Users\Wenso\source\repos\Prog_evenementielle\obj\Debug\Prog_evenementielle.pdb
